@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.utama{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url("faiq.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.isi{
+    width: 90%;
+    margin: auto;
+    padding: 40px 0;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.isi p{
+    font-size: 20px;
+}
+
+.content{
+    text-align: center;
+    color: black;
+}
+
+.content h2{
+    padding: 10px 0;
+    border: groove;
+    border-color: brown;
+    border-radius: 5px;
+    border
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 15px;
+}
+
